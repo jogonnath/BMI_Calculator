@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VMI Calculator</string>
+    <string name="tips_choosea">Tips:choosea diut plan and do execrise</string>
+    <string name="bmi">BMI is 20</string>
+    <string name="overweigt">You are overweigt</string>
+    <string name="calculate_again">Calculate Again</string>
+</resources>
